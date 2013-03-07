@@ -1,6 +1,6 @@
-**NOTE:** This is a fork of the awesome [wordpress-on-heroku](https://github.com/mchung/wordpress-on-heroku) project, which helps you upload a wordpress application to [Herkou](http://heroku.com).  One way to use it is to fork the project and then upload the forked project to your Heroku instance.  You can follow the instructions [here](http://mchung.github.com/heroku-buildpack-wordpress/).
+**NOTE:** This is a fork of the awesome [wordpress-on-heroku](https://github.com/mchung/wordpress-on-heroku) project, which helps you upload a wordpress application to [Herkou](http://heroku.com).  The best way to use this project is to fork the project and then upload the forked project, with your own modifications, to your Heroku instance (which is what this fork is doing). This fork is used for my own personal [blog](http://blog.richsinn.com).
 
-This fork is used for my own personal [blog](http://blog.richsinn.com).
+You can follow the instructions of how to make use of this project from the original author's [github page](http://mchung.github.com/heroku-buildpack-wordpress/).
 
 The rest of the README below is exactly as how it appears in the
 original [wordpress-on-heroku](https://github.com/mchung/wordpress-on-heroku) project.
