@@ -1,3 +1,9 @@
+# NOTE
+This is a fork of the awesome [wordpress-on-heroku](https://github.com/mchung/wordpress-on-heroku) project, which helps you upload a wordpress application to herkou.  One way to use it is to fork the project and then upload the forked project to your heroku instance.  You can follow the instructions [here](http://mchung.github.com/heroku-buildpack-wordpress/).
+
+The rest of the README below is exactly as how it appears in the
+original [wordpress-on-heroku](https://github.com/mchung/wordpress-on-heroku) project.
+
 # Wordpress on Heroku
 
 This is where changes to your Wordpress site are made.  Changes committed to this directory will overwrite all the vendor defaults.
