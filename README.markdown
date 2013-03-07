@@ -1,6 +1,8 @@
-**NOTE:** This is a fork of the awesome [wordpress-on-heroku](https://github.com/mchung/wordpress-on-heroku) project, which helps you upload a wordpress application to [Herkou](http://heroku.com).  The best way to use this project is to fork the project and then upload the forked project, with your own modifications, to your Heroku instance (which is what this fork is doing). This fork is used for my own personal [blog](http://blog.richsinn.com).
+**NOTE:** This is a fork of the awesome [wordpress-on-heroku](https://github.com/mchung/wordpress-on-heroku) project template, which helps you upload a [Wordpress](http://wordpress.org) application to [Herkou](http://heroku.com).  The original wordpress-on-heroku project template is a repackaging of a Wordpress project template into a git repository so that it can be easily uploaded to Heroku; it makes use of the [heroku-buildpack-wordpress](https://github.com/mchung/heroku-buildpack-wordpress) project to configure Wordpress for Heroku.  
 
-You can follow the instructions of how to make use of this project from the original author's [github page](http://mchung.github.com/heroku-buildpack-wordpress/).
+The best way to use this project template is to fork it, modify it to your specifications, and then upload it to your Heroku instance (which is how this fork is using it). This fork is used for my own personal [blog](http://blog.richsinn.com).
+
+You can follow the instructions of how to make use of this project template from the original author's [github page](http://mchung.github.com/heroku-buildpack-wordpress/).
 
 The rest of the README below is exactly as how it appears in the
 original [wordpress-on-heroku](https://github.com/mchung/wordpress-on-heroku) project.
