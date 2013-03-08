@@ -436,7 +436,7 @@ ul.nav {
   margin-left: 0px;
   margin-right; 0px;
 }
-#main, footer {
+#main, #colophon.footer {
   margin-left: 25px;
   margin-right: 25px;
 }
