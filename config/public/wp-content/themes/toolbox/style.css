@@ -390,7 +390,7 @@ article.comment {
 	padding: 1em 0 0;
 }
 
-/* RSINN Custom elements stylings (mostly for header) */
+/* RSINN Custom elements stylings for Twitter Bootstrap (mostly for header) */
 .navbar .container .row {
   margin-left: 0px;
 }
@@ -429,4 +429,9 @@ ul.nav {
   border-bottom: 0px;
   padding-top: 5px;
   padding-bottom: 5px;
+}
+
+/* Misc Custom CSS */
+.widget-title {
+  font-size: 14px;
 }
