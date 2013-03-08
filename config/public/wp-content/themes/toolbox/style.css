@@ -437,17 +437,22 @@ ul.nav {
 }
 .widget-title {
   font-size: 18px;
-  padding-bottom: 0px;
+  margin-bottom: 0px;
 }
 .entry-title {
   font-size: 20px;
+  margin-bottom: 0px;
 }
 .entry-meta {
   font-size:10px;
+  margin-bottom: 10px;
 }
 #reply-title {
   font-size: 14px;
 }
 #site-generator {
   font-size:10px;
+}
+#nav-below {
+  border-top: 1px solid black;
 }
