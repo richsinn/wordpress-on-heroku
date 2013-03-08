@@ -431,7 +431,15 @@ ul.nav {
   padding-bottom: 5px;
 }
 
-/* Misc Custom CSS */
+/* Misc Custom CSS override */
+#page {
+  margin-left: 0px;
+  margin-right; 0px;
+}
+#main, footer {
+  margin-left: 25px;
+  margin-right: 25px;
+}
 #branding{
   margin-bottom: 10px;
 }
