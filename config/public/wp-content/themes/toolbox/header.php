@@ -59,17 +59,43 @@
 <div id="page" class="hfeed">
 <?php do_action( 'before' ); ?>
 	<header id="branding" role="banner">
-		<hgroup>
-			<h1 id="site-title"><a href="<?php echo home_url( '/' ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
-			<h2 id="site-description"><?php bloginfo( 'description' ); ?></h2>
+    <!--
+    <hgroup>
+			<h1 id="site-title"><a href="<?php //echo home_url( '/' ); ?>" title="<?php //echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
+			<h2 id="site-description"><?php //bloginfo( 'description' ); ?></h2>
 		</hgroup>
 
 		<nav id="access" role="navigation">
-			<h1 class="assistive-text section-heading"><?php _e( 'Main menu', 'toolbox' ); ?></h1>
-			<div class="skip-link screen-reader-text"><a href="#content" title="<?php esc_attr_e( 'Skip to content', 'toolbox' ); ?>"><?php _e( 'Skip to content', 'toolbox' ); ?></a></div>
+			<h1 class="assistive-text section-heading"><//?php _e( 'Main menu', 'toolbox' ); ?></h1>
+			<div class="skip-link screen-reader-text"><a href="#content" title="<?//php esc_attr_e( 'Skip to content', 'toolbox' ); ?>"><?php _e( 'Skip to content', 'toolbox' ); ?></a></div>
 
-			<?php wp_nav_menu( array( 'theme_location' => 'primary' ) ); ?>
-		</nav><!-- #access -->
+			<?//php wp_nav_menu( array( 'theme_location' => 'primary' ) ); ?>
+    </nav><!-- #access -->
+    -->
+    <div class="navbar-inner">
+      <div class="container">
+        <div class="row">
+          <div id="logo" class="span4">
+    <a href="http://blog.richsinn.com" class="brand">
+            <img src="https://richsinn-blog.s3.amazonaws.com/content/2013/03/richsinn_logo_255x70.png" />
+    </a>
+          </div>
+    <div class="span4">
+    <ul class="nav nav-tabs" data-current-page="about" id="contentpage-tabs">
+        <li id="about-tab">
+        <a href="http://richsinn.com/about">about</a>
+        </li>
+        <li id="projects-tab">
+          <a href="http://richsinn.com/projects">projects</a>
+        </li>
+        <li id="blog-tab" class="active">
+          <a href="http://blog.richsinn.com">blog</a>
+        </li>
+    </ul>
+    </div>
+        </div>
+      </div>
+    </div>
 	</header><!-- #branding -->
 
 	<div id="main">
