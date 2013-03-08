@@ -77,7 +77,7 @@
       <div class="container">
         <div class="row">
           <div id="logo" class="span4">
-    <a href="http://blog.richsinn.com" class="brand">
+    <a href="http://richsinn.com" class="brand">
             <img src="https://richsinn-blog.s3.amazonaws.com/content/2013/03/richsinn_logo_255x70.png" />
     </a>
           </div>
