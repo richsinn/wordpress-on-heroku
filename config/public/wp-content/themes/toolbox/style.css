@@ -433,6 +433,7 @@ ul.nav {
 
 /* Misc Custom CSS override */
 #page {
+  margin-top: 0px;
   margin-left: 0px;
   margin-right; 0px;
 }
@@ -441,6 +442,8 @@ ul.nav {
   margin-right: 25px;
 }
 #branding{
+  margin-top: 11px;
+  margin-left: 39px;
   margin-bottom: 10px;
 }
 .widget-title {
