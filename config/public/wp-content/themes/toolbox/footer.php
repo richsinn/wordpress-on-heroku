@@ -10,7 +10,7 @@
 ?>
 
 	</div><!-- #main -->
-
+  </div><!--.container-->
 	<footer id="colophon" role="contentinfo">
 		<div id="site-generator">
 			<?php do_action( 'toolbox_credits' ); ?>

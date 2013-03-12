@@ -98,5 +98,5 @@
       </div>
     </div>
 	</header><!-- #branding -->
-
+  <div class="container">
 	<div id="main">
