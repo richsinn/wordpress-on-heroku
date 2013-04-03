@@ -467,7 +467,7 @@ ul.nav {
 #nav-below {
   border-top: 1px solid black;
 }
-.wp-caption-text{
+p.wp-caption-text {
   font-size:12px;
   font-style:italic;
 }
