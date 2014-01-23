@@ -471,6 +471,6 @@ p.wp-caption-text {
   font-size:12px;
   font-style:italic;
 }
-.side-matter-text {
+.side-matter-text p{
   font-size:10px;
 }
