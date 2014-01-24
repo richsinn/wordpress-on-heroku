@@ -84,10 +84,10 @@
     <div class="span4">
     <ul class="nav nav-tabs" data-current-page="about" id="contentpage-tabs">
         <li id="about-tab">
-        <a href="http://richsinn.com/about">about</a>
+        <a href="http://www.richsinn.com/about">about</a>
         </li>
         <li id="projects-tab">
-          <a href="http://richsinn.com/projects">projects</a>
+          <a href="http://www.richsinn.com/projects">projects</a>
         </li>
         <li id="blog-tab" class="active">
           <a href="http://blog.richsinn.com">blog</a>
